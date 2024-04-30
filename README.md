@@ -1,16 +1,17 @@
-# alex
+Alex: The AI Assistant
+Alex is an AI Assistant mobile application built using Flutter, designed to provide comprehensive assistance through various features while integrating advanced UI animations for an enhanced user experience.
 
-A new Flutter project.
+Features
+Chat with Alex: Enjoy instant responses to your queries through a chat-based interface powered by the OpenAI API.
+Image Creation with Alex: Effortlessly transform text into visually stunning images with Alex's image creation feature.
+Translate with Alex: Break linguistic barriers with a robust translation feature capable of translating text from various languages to multiple target languages.
 
-## Getting Started
+Technologies Used
+Flutter: Alex is built using Flutter, allowing for cross-platform compatibility and smooth UI animations.
+OpenAI API: Powering the chat-based interface, providing real-time AI responses.
+Stability.ai Api : Powering the Image creation with the help of Stability.ai API 
+Hive: Utilized for efficient local database management, ensuring seamless user experience.
+Lottie Animations: Adding an extra layer of visual appeal. 
 
-This project is a starting point for a Flutter application.
+Explore Alex today and experience the future of AI assistance!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
