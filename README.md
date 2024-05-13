@@ -15,3 +15,11 @@ Lottie Animations: Adding an extra layer of visual appeal.
 
 Explore Alex today and experience the future of AI assistance!
 
+
+# output 
+
+https://github.com/rishi26gupta/Alex/assets/157385547/14af7ccf-edff-4da0-a89d-2b2b174b3e72
+
+
+
+
